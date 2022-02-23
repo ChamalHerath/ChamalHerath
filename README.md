@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently undergraduate at **[SLIIT.](https://www.sliit.lk/)**
+- 🔭 I’m graduated from **[SLIIT.](https://www.sliit.lk/)**
 
 - 👯 I’m currently working as a **Frontend Developer.**
 
