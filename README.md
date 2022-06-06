@@ -1,6 +1,6 @@
 <p align="center"><img width="700" height="400px" src="code.gif"/></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br> I'm Chamal Janadara</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> <br> I'm Chamal Janadara</h1>
 <h3 align="center">I'm a passionate Frontend Developer from SRI LANKA.</h3>
 
 
